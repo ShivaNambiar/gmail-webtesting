@@ -37,7 +37,7 @@ public class gmailSignInTest {
     public void fastTest()
     {
         WebDriver driver = new FirefoxDriver();
-        driver.get("http://wwww.yahoomail.com");
+        driver.get("http://wwww.hotmail.com");
         System.out.println("fast2");
     }
 
